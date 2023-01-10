@@ -23,11 +23,9 @@
     {
         for (var i = 0; i < range; i++)
         {
-            if (counts[i] > 0)
-            {
-                var character = (char)i;
-                Console.WriteLine("\"" + character + "\" - " + counts[i]);
-            }
+            if (counts[i] <= 0) continue;
+            var character = (char)i;
+            Console.WriteLine($"\"{character}\" - {counts[i]}");
         }
     }
 
