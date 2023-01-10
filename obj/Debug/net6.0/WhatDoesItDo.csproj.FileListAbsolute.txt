@@ -1,0 +1,15 @@
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/bin/Debug/net6.0/WhatDoesItDo
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/bin/Debug/net6.0/WhatDoesItDo.deps.json
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/bin/Debug/net6.0/WhatDoesItDo.runtimeconfig.json
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/bin/Debug/net6.0/WhatDoesItDo.dll
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/bin/Debug/net6.0/WhatDoesItDo.pdb
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/WhatDoesItDo.csproj.AssemblyReference.cache
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/WhatDoesItDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/WhatDoesItDo.AssemblyInfoInputs.cache
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/WhatDoesItDo.AssemblyInfo.cs
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/WhatDoesItDo.csproj.CoreCompileInputs.cache
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/WhatDoesItDo.dll
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/refint/WhatDoesItDo.dll
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/WhatDoesItDo.pdb
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/WhatDoesItDo.genruntimeconfig.cache
+/Users/simenbk/Documents/GET/Modul 3/Oppgaver/Oppgave_1/WhatDoesItDo/WhatDoesItDo/obj/Debug/net6.0/ref/WhatDoesItDo.dll
