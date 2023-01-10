@@ -12,7 +12,7 @@ class Program
         string text = "something";
         while (!string.IsNullOrWhiteSpace(text))
         {
-            text = Console.ReadLine();
+            text = Console.ReadLine().ToLower();
             UpdateCharacters(counts, text);
             ShowCounts(range, counts);
         }
